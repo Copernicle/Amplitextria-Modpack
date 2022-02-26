@@ -1,6 +1,5 @@
 Amplitextria - Forge - 1.16.5
 This modpack is a medium sized modpack built for Forge 1.16.5 with a balance of Tech, Magic, Adventure, and Decor.
-(https://user-images.githubusercontent.com/81789340/155824638-586466a6-1d5c-47e7-965b-17407a5efd7e.png)
 
 This modpack is currently in BETA! There are known bugs and issues.
 Note: Some mods have been altered to fix rendering issues.
